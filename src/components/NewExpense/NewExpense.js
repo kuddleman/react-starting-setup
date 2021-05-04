@@ -1,6 +1,10 @@
 const NewExpense = () => {
 
-    return div
+    return (
+        <div className="new-expense">
+            
+        </div>
+    )
 
 }
 
